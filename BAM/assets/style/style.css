@@ -1,0 +1,17 @@
+.card-img-top {
+    height: 60%;
+}
+
+.logo1{
+    position: relative;
+    width: 5%;
+    height: 5%;
+    top:8px;
+}
+.logo2{
+    position: relative;
+    width: 5%;
+    height: 5%;
+    top:15px;
+    left:-40px;
+}
